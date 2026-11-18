@@ -1,0 +1,8 @@
+{
+ "item.enhancedbackpack.backpack": "Mochila",
+ "item.enhancedbackpack.crafting_plugin": "Plugin de crafteo",
+ "item.enhancedbackpack.horn_plugin": "Plugin de horno",
+ "container.enhancedbackpack.backpack": "Enhanced Backpack",
+ "key.enhancedbackpack.open": "Abrir mochila",
+ "key.category.enhancedbackpack.main": "Enhanced Backpack"
+}

@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "key": {
+  "L": "minecraft:leather",
+  "F": "minecraft:furnace"
+ },
+ "pattern": [
+  "LLL",
+  "LFL",
+  "LLL"
+ ],
+ "result": {
+  "id": "enhancedbackpack:horn_plugin",
+  "count": 1
+ }
+}

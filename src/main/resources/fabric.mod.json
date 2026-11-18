@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "enhancedbackpack",
+  "version": "${version}",
+  "name": "Enhanced Backpack",
+  "description": "Backpack with 27 slots and plugin slots (crafting table and furnace).",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.enhancedbackpack.EnhancedBackpack"],
+    "client": ["com.enhancedbackpack.client.EnhancedBackpackClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

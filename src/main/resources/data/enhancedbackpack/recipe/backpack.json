@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "key": {
+  "L": "minecraft:leather",
+  "N": "minecraft:iron_nugget",
+  "S": "minecraft:bundle"
+ },
+ "pattern": [
+  "LNL",
+  "LSL",
+  "LLL"
+ ],
+ "result": {
+  "id": "enhancedbackpack:backpack",
+  "count": 1
+ }
+}

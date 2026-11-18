@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "key": {
+  "L": "minecraft:leather",
+  "T": "minecraft:crafting_table"
+ },
+ "pattern": [
+  "LLL",
+  "LTL",
+  "LLL"
+ ],
+ "result": {
+  "id": "enhancedbackpack:crafting_plugin",
+  "count": 1
+ }
+}
